@@ -1,6 +1,5 @@
 # hello-karyon-rxnetty
-helelllleleglelgoeloelo
-test sad
+
 ## Build Tasks
 
 ### Running the app
@@ -13,4 +12,4 @@ test sad
 ./gradlew clean fatJar
 java -jar build/libs/hello-karyon-rxnetty-all-0.1.0.jar
 ```
-:WQE:QWE:
+# Test Push
